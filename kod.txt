@@ -1,3 +1,5 @@
 ilk satir kod
 
 chat kodları
+
+CHAT_KODLARI CHAT_KODLARI
